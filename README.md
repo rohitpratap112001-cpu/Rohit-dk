@@ -82,3 +82,15 @@
 
 </body>
 </html>
+<h2>Popular AI Tools</h2>
+<p>
+<a href="https://chat.openai.com" target="_blank">
+  <button style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">ChatGPT</button>
+</a>
+<a href="https://www.canva.com" target="_blank">
+  <button style="background-color:#FF5722; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">Canva AI</button>
+</a>
+<a href="https://www.grammarly.com" target="_blank">
+  <button style="background-color:#2196F3; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">Grammarly</button>
+</a>
+</p>
