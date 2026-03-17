@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head><head>
+    (पुराना code जैसा है वैसा रहने दो)
+
+    <meta name="google-site-verification" content="XYZ123" />
+</head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Tools Hub</title>
