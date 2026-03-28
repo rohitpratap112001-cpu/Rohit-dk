@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><head>
-    (पुराना code जैसा है वैसा रहने दो)
 
     <meta name="google-site-verification" content="XYZ123" />
 </head>
